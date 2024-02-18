@@ -523,6 +523,14 @@ figure.effect-honey:hover h2 i {
 	padding-top: 30px;
 	}
 
+footer{
+  background-color: #001828;
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
 /* Contact */
 
 #contact {
